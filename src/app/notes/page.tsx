@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "FlowBrain - notes",
+  title: "FlowBrain - Notes",
 };
 
 export default function NotesPage() {
